@@ -1,0 +1,8 @@
+
+
+legacy_batch_number,production_date,shift,product_id,line_id,created_by
+VALID-001,2026-11-05,Morning,1,1,1
+INVALID-002,2026-11-06,Night,999,1,1
+INVALID-003,wrong-date,Evening,1,1,1
+INVALID-004,2026-11-07,Night,1,999,1
+INVALID-005,2026-11-08,,1,1,1

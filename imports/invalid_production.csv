@@ -1,0 +1,3 @@
+batch_id,input_quantity,output_quantity,wastage_quantity,moisture_reading
+999,100,80,20,5
+1,100,80,20,5

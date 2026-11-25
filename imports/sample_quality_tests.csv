@@ -1,0 +1,5 @@
+batch_id,test_date,test_name,result,remarks
+1,2026-11-08,Moisture Test,Passed,Moisture within acceptable range
+1,2026-11-09,Temperature Test,Passed,Temperature within limits
+1,2026-11-10,Packaging Test,Rejected,Packaging seal defective
+1,2026-11-10,Visual Inspection,Passed,Product appearance acceptable
